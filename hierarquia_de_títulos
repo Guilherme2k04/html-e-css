@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="imagem/Html5.ico" type="image/x-icon">
+    <title>Hierarquia de titulos.</title>
+</head>
+<body>
+    <h1>Entendendo Portugal</h1>
+    <h2>1 - Introdução</h2>
+    <h3>1.1 Justificação da Temática</h3>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus consequuntur, eos magni at perspiciatis, a voluptatum magnam sequi quasi ut quibusdam facere tempora totam unde, porro deleniti ea. Minima, possimus.</p>
+    <h3>1.2 Caráter excecional</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti porro distinctio, error perferendis ipsam nam voluptatem vero, dolorum eius atque aut explicabo nemo? Dignissimos molestiae eum, distinctio voluptatem eos officia.</p>
+    <h3>1.3 Perguntas de partidas</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo voluptatem atque aperiam illum, corporis qui deserunt maxime non? Totam aperiam, nisi inventore explicabo accusantium veniam temporibus dignissimos laudantium tempore at?</p>
+    <h3>1.4 Metodologia de Investigação</h3>
+    <h4>1.4.1 Etapas de Investigação</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, adipisci aperiam dolore voluptatibus quibusdam asperiores aliquam accusamus cupiditate provident sed ducimus maxime. Asperiores eligendi magni, quidem quia delectus fuga repellendus.</p>
+    <h4>1.4.2 Instrumentos de Analise</h4>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis tenetur ipsa modi excepturi minima ipsum quidem numquam eius vel beatae, eum iure sequi illum non itaque fuga iste atque odit.</p>
+    <h2>2 - Ordenamento do Território em Portugal</h2>
+    <h3>2.1 Os instrumentos de gestão</h3>
+    <h4>2.1.1 Os intrumentos de planeamento</h4>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero, accusamus odit praesentium consequuntur asperiores dolore, deleniti labore fugit aliquid placeat consequatur voluptas quo corrupti porro eligendi at quia iusto nihil.</p>
+    <h4>2.1.2 Os regimes territoriais</h4>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem odit voluptas quos earum exercitationem corrupti totam in quas nostrum sed, ullam consequatur eum distinctio. Alias aliquid amet nemo minus natus?</p>
+</body>
+</html>
