@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste de Semântica</title>
+</head>
+<body>
+    <p>
+        Eu moro na rua <address>Rua das Capiabas, 229 - Botafogo Rio de janeiro/RJ</address> <!--ADDRESS: DA UM DESTAQUE NO CÓDIGO DENTRO DELE, NESSE CASO COMO SE TRATA DE UM ENDEREÇO, OLHANDO NO SITE VOCE VERÁ A DIFERENÇA DO CÓDIGO, ESSA TAG EXPECIFICAMENTE APLICA UMA FORMA DE ENDEREÇO NO CÓDIGO, NA TRADUÇÃO ADDRESS = ENDEREÇO.-->
+    </p>
+</body>
+</html>
