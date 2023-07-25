@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formatações Adicionais HTML</title>
+    <style>
+        mark{
+            background-color: aqua;
+        }
+    </style>
+</head>
+<body>
+    <h1>
+        Principais Formatações
+    </h1>
+    <h2>
+        1 - Negrito / Destaque:
+    </h2>
+    <p>
+        1.1 - Nesta frase temos um <b>termo em negrito</b> usando a tag &lt;B&gt; (nâo semântica)
+    </p>
+    <p>
+        1.2 - Nesta frase temos um <strong>termo em destaque</strong> usando a tag &lt;STRONG&gt; (Semântica)
+    </p>
+    <h2>
+        2 - Itálico / Ênfase:
+    </h2>
+    <p>
+        2.1 - Nesta frase, temos um <i>termo em Itálico</i> usando a tag &lt;I&gt; (não semântica)
+    </p>
+    <p>
+        2.2 - Nesta frase, temos um <em>termo em Ênfase</em> usando a tag &lt;EM&gt; (Semântica)
+    </p>
+    <h2>
+        3 - Texto Marcado:
+    </h2>
+    <p>
+        3.1 - Podemos criar também <mark>um texto marcado</mark> usando a tag &lt;MARK&gt;
+    </p>
+    <h2>
+        4 - Texto Grande e Pequeno:
+    </h2>
+    <p>
+        4.1 - Estamos criando <big>um texto grande</big> e <small>um texto pequeno</small> nesse parágrafo. <br>
+        Utilizando as tags: &lt;;BIG&gt; e &lt;SMALL&gt;.
+    </p>
+    <h2>
+        5 - Texto Deletado:
+    </h2>
+    <p>
+        5.1 - Podemos marcar <del>um texto excluído</del> para indicar que ele deve ser lido mas não considerado.
+    </p>
+    <h2>
+        6 - Texto Inserido:
+    </h2>
+    <p>
+        6.1 - Podemos marcar <ins>um texto inserido</ins>, para dar um ênfase e indicar que ele foi adicionado depois. <br>
+        Usando a tag &lt;INS&gt;.(Semantica = Insert)
+    </p>
+    <p>
+        6.2 - Existe também o <u>sublinhado</u> com a tag &lt;U&gt;(Não semântica)
+    </p>
+    <h2>
+        7 - Texto elevado / sobrescrito:
+    </h2>
+    <p>
+        7.1 - Para inserir coisas do tipo: x<sup>20</sup> + 3 <br>
+        A tag usada para elevar o "20" foi: &lt;SUP&gt;.
+    </p>
+    <h2>
+        8 - Texto subscrito:
+    </h2>
+    <p>
+        8.1 - Para inserir coisas do tipo: H<sub>2</sub>0 <br>
+        A tag usada para "rebaixar" o "2" foi: &lt;SUB&gt;.
+    </p>
+</body>
+</html>
