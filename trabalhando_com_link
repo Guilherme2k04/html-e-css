@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalhando com Links</title>
+</head>
+<body>
+    <h1>
+        Usando Links externos
+    </h1>
+    <p>Você pode acessar o meu repositório publico no GitHub, <a href="https://github.com/Guilherme2k04?tab=repositories" target="_blank" rel="external">clicando aqui.</a></p>
+    <p>Os cursos do Guanabará pode ser visulizado também, no canal que ele possui no <a href="https://www.youtube.com/@CursoemVideo" rel="external" target="_blank">youtube</a></p>
+</body>
+</html>
